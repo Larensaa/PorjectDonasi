@@ -127,6 +127,7 @@
                                 </div>
                                 <h5 class="mb-3">{{$item->name}}</h5>
                                 <p>{!! $item->thumbnail_description !!}</p>
+                                
                                 <div class="causes-progress bg-light p-3 pt-2">
                                     <div class="d-flex justify-content-between">
                                         <p class="text-dark">{{ number_format($item->goal_price) }} <small class="text-body">Goal</small></p>
@@ -142,7 +143,7 @@
                             <div class="position-relative mt-auto">
                                 <img class="img-fluid" src="{{Storage::url($item->photos)}}" alt="">
                                 <div class="causes-overlay">
-                                    <a class="btn btn-outline-primary" href="">
+                                    <a class="btn btn-outline-primary" href="{{route('donate')}}">
                                         Read More
                                         <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
                                             <i class="fa fa-arrow-right"></i>
