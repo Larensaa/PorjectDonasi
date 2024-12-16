@@ -38,13 +38,10 @@
                         <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">About Us</div>
                         <h1 class="display-6 mb-5">We Help People In Need Around The World</h1>
                         <div class="bg-light border-bottom border-5 border-primary rounded p-4 mb-4">
-                            <p class="text-dark mb-2">Aliqu diam amet diam et eos. Clita erat ipsum et lorem sed stet lorem
-                                sit clita duo justo erat amet</p>
-                            <span class="text-primary">Jhon Doe, Founder</span>
+                            <p class="text-dark mb-2">ami hadir untuk membantu mereka yang membutuhkan di seluruh dunia, membawa harapan dan perubahan nyata bagi kehidupan mereka.</p>
+                            <span class="text-primary">Sepuh Zidane, Founder</span>
                         </div>
-                        <p class="mb-5">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam
-                            et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat
-                            amet</p>
+                        <p class="mb-5">Kami percaya bahwa setiap langkah kecil dapat menciptakan perubahan besar. Dengan tekad dan semangat, kami terus bergerak membantu sesama, membawa senyuman di tengah tantangan yang ada. Mari bersama ciptakan dunia yang lebih baik untuk semua/p>
                         <a class="btn btn-primary py-2 px-3 me-3" href="">
                             Learn More
                             <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">

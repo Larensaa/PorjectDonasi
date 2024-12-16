@@ -15,11 +15,9 @@
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-7 pt-5">
-                                    <h1 class="display-4 text-white mb-3 animated slideInDown">Let's Change The World With
-                                        Humanity</h1>
-                                    <p class="fs-5 text-white-50 mb-5 animated slideInDown">Aliqu diam amet diam et eos.
-                                        Clita erat ipsum et lorem sed stet lorem sit clita duo justo erat amet</p>
-                                    <a class="btn btn-primary py-2 px-3 animated slideInDown" href="">
+                                    <h1 class="display-4 text-white mb-3 animated slideInDown">Together, We Can Make a Difference</h1>
+                                    <p class="fs-5 text-white-50 mb-5 animated slideInDown">Empati adalah awal dari perubahan besar. Bersama, mari kita bantu mereka yang membutuhkan, karena setiap kontribusi memiliki makna.</p>
+                                    <a class="btn btn-primary py-2 px-3 animated slideInDown" href="{{route('about')}}">
                                         Learn More
                                         <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
                                             <i class="fa fa-arrow-right"></i>
@@ -36,11 +34,9 @@
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-7 pt-5">
-                                    <h1 class="display-4 text-white mb-3 animated slideInDown">Let's Save More Lifes With
-                                        Our Helping Hand</h1>
-                                    <p class="fs-5 text-white-50 mb-5 animated slideInDown">Aliqu diam amet diam et eos.
-                                        Clita erat ipsum et lorem sed stet lorem sit clita duo justo erat amet</p>
-                                    <a class="btn btn-primary py-2 px-3 animated slideInDown" href="">
+                                    <h1 class="display-4 text-white mb-3 animated slideInDown">Together, We Can Save More Lives with Kindness</h1>
+                                    <p class="fs-5 text-white-50 mb-5 animated slideInDown">Mari ulurkan tangan untuk membawa harapan. Setiap bantuan, sekecil apa pun, dapat menyelamatkan nyawa dan mengubah masa depan mereka.</p>
+                                    <a class="btn btn-primary py-2 px-3 animated slideInDown" href="{{route('about')}}">
                                         Learn More
                                         <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
                                             <i class="fa fa-arrow-right"></i>
@@ -82,20 +78,17 @@
                         <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">About Us</div>
                         <h1 class="display-6 mb-5">We Help People In Need Around The World</h1>
                         <div class="bg-light border-bottom border-5 border-primary rounded p-4 mb-4">
-                            <p class="text-dark mb-2">Aliqu diam amet diam et eos. Clita erat ipsum et lorem sed stet lorem
-                                sit clita duo justo erat amet</p>
-                            <span class="text-primary">Jhon Doe, Founder</span>
+                            <p class="text-dark mb-2">Kami hadir untuk membantu mereka yang membutuhkan di seluruh dunia, membawa harapan dan perubahan nyata bagi kehidupan mereka.</p>
+                            <span class="text-primary">Sepuh Zidane, Founder</span>
                         </div>
-                        <p class="mb-5">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam
-                            et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat
-                            amet</p>
-                        <a class="btn btn-primary py-2 px-3 me-3" href="">
+                        <p class="mb-5">Kami percaya bahwa setiap langkah kecil dapat menciptakan perubahan besar. Dengan tekad dan semangat, kami terus bergerak membantu sesama, membawa senyuman di tengah tantangan yang ada. Mari bersama ciptakan dunia yang lebih baik untuk semua.<T/p>
+                        <a class="btn btn-primary py-2 px-3 me-3" href="{{route('about')}}">
                             Learn More
                             <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
                                 <i class="fa fa-arrow-right"></i>
                             </div>
                         </a>
-                        <a class="btn btn-outline-primary py-2 px-3" href="">
+                        <a class="btn btn-outline-primary py-2 px-3" href="{{route('contact')}}">
                             Contact Us
                             <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
                                 <i class="fa fa-arrow-right"></i>
@@ -171,10 +164,9 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
                         <img class="img-fluid mb-4" src="assets/img/icon-1.png" alt="">
-                        <h4 class="mb-3">Child Education</h4>
-                        <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero
-                            dolor duo.</p>
-                        <a class="btn btn-outline-primary px-3" href="">
+                        <h4 class="mb-3">Pendidikan</h4>
+                        <p class="mb-4">Kami berkomitmen menyediakan pendidikan berkualitas untuk semua, membuka peluang masa depan yang lebih cerah..</p>
+                        <a class="btn btn-outline-primary px-3" href="{{route('about')}}">
                             Learn More
                             <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
                                 <i class="fa fa-arrow-right"></i>
@@ -185,10 +177,9 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
                         <img class="img-fluid mb-4" src="assets/img/icon-2.png" alt="">
-                        <h4 class="mb-3">Medical Treatment</h4>
-                        <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero
-                            dolor duo.</p>
-                        <a class="btn btn-outline-primary px-3" href="">
+                        <h4 class="mb-3">Perawatan Kesehatan</h4>
+                        <p class="mb-4">Akses perawatan kesehatan yang layak bagi semua, karena setiap individu berhak atas kualitas hidup yang baik.</p>
+                        <a class="btn btn-outline-primary px-3" href="{{route('about')}}">
                             Learn More
                             <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
                                 <i class="fa fa-arrow-right"></i>
@@ -199,10 +190,9 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
                         <img class="img-fluid mb-4" src="assets/img/icon-3.png" alt="">
-                        <h4 class="mb-3">Pure Drinking Water</h4>
-                        <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero
-                            dolor duo.</p>
-                        <a class="btn btn-outline-primary px-3" href="">
+                        <h4 class="mb-3">Air Minum Bersih</h4>
+                        <p class="mb-4"> Menyediakan akses air bersih bagi semua, mendukung kehidupan yang sehat dan berkelanjutan..</p>
+                        <a class="btn btn-outline-primary px-3" href="{{route('about')}}">
                             Learn More
                             <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
                                 <i class="fa fa-arrow-right"></i>
@@ -223,9 +213,7 @@
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">Donate Now</div>
                     <h1 class="display-6 text-white mb-5">Thanks For The Results Achieved With You</h1>
-                    <p class="text-white-50 mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam
-                        amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore
-                        erat amet</p>
+                    <p class="text-white-50 mb-0">Kami sangat menghargai kerja sama dan kontribusi Anda dalam menciptakan perubahan positif. Mari terus maju bersama, menghadirkan lebih banyak kebaikan dan pencapaian!</p>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <div class="h-100 bg-white p-5">
@@ -299,11 +287,11 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item position-relative rounded overflow-hidden">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="assets/img/team-1.jpg" alt="">
+                            <img class="img-fluid" src="assets/img/hendra.jpg" alt="">
                         </div>
                         <div class="team-text bg-light text-center p-4">
-                            <h5>Full Name</h5>
-                            <p class="text-primary">Designation</p>
+                            <h5>Rian Hendra</h5>
+                            <p class="text-primary">Kampung Arab</p>
                             <div class="team-social text-center">
                                 <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
@@ -315,11 +303,11 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item position-relative rounded overflow-hidden">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="assets/img/team-2.jpg" alt="">
+                            <img class="img-fluid" src="assets/img/bintang.jpg" alt="">
                         </div>
                         <div class="team-text bg-light text-center p-4">
-                            <h5>Full Name</h5>
-                            <p class="text-primary">Designation</p>
+                            <h5>Bintang Lazuardi</h5>
+                            <p class="text-primary">Handil Bakti</p>
                             <div class="team-social text-center">
                                 <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
@@ -331,11 +319,11 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item position-relative rounded overflow-hidden">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="assets/img/team-3.jpg" alt="">
+                            <img class="img-fluid" src="assets/img/anur.jpg" alt="">
                         </div>
                         <div class="team-text bg-light text-center p-4">
-                            <h5>Full Name</h5>
-                            <p class="text-primary">Designation</p>
+                            <h5>Anur Riski</h5>
+                            <p class="text-primary">BanjarBaru</p>
                             <div class="team-social text-center">
                                 <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
@@ -347,11 +335,11 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="team-item position-relative rounded overflow-hidden">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="assets/img/team-4.jpg" alt="">
+                            <img class="img-fluid" src="assets/img/ari.jpg" alt="">
                         </div>
                         <div class="team-text bg-light text-center p-4">
-                            <h5>Full Name</h5>
-                            <p class="text-primary">Designation</p>
+                            <h5>Surya Arinaldi</h5>
+                            <p class="text-primary">Handil Bakti</p>
                             <div class="team-social text-center">
                                 <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
