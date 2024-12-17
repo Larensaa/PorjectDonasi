@@ -41,24 +41,6 @@
                             <p class="text-dark mb-2">ami hadir untuk membantu mereka yang membutuhkan di seluruh dunia, membawa harapan dan perubahan nyata bagi kehidupan mereka.</p>
                             <span class="text-primary">Sepuh Zidane, Founder</span>
                         </div>
-<<<<<<< HEAD
-                        <p class="mb-5">Kami percaya bahwa setiap langkah kecil dapat menciptakan perubahan besar. Dengan tekad dan semangat, kami terus bergerak membantu sesama, membawa senyuman di tengah tantangan yang ada. Mari bersama ciptakan dunia yang lebih baik untuk semua/p>
-                        <div class="mt-3">
-                            <a class="btn btn-primary py-2 px-3 me-3" href="">
-                                Learn More
-                                {{-- <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
-                                    <i class="fa fa-arrow-right"></i>
-                                </div> --}}
-                            </a>
-                            <a class="btn btn-outline-primary py-2 px-3" href="">
-                                Contact Us
-                                {{-- <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
-                                    <i class="fa fa-arrow-right"></i>
-                                </div> --}}
-                            </a>
-                        </div>
-                            
-=======
                         <p class="mb-5">Kami percaya bahwa setiap langkah kecil dapat menciptakan perubahan besar. Dengan tekad dan semangat, kami terus bergerak membantu sesama, membawa senyuman di tengah tantangan yang ada. Mari bersama ciptakan dunia yang lebih baik untuk semua</p>
                         <a class="btn btn-primary py-2 px-3 me-3" href="">
                             Learn More
@@ -72,7 +54,7 @@
                                 <i class="fa fa-arrow-right"></i>
                             </div>
                         </a>
->>>>>>> 6a76bedfc55b663d604689f048226eec672a5f53
+
                     </div>
                 </div>
             </div>

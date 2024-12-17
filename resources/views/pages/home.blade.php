@@ -81,7 +81,7 @@
                             <p class="text-dark mb-2">Kami hadir untuk membantu mereka yang membutuhkan di seluruh dunia, membawa harapan dan perubahan nyata bagi kehidupan mereka.</p>
                             <span class="text-primary">Sepuh Zidane, Founder</span>
                         </div>
-                        <p class="mb-5">Kami percaya bahwa setiap langkah kecil dapat menciptakan perubahan besar. Dengan tekad dan semangat, kami terus bergerak membantu sesama, membawa senyuman di tengah tantangan yang ada. Mari bersama ciptakan dunia yang lebih baik untuk semua.<T/p>
+                        <p class="mb-5">Kami percaya bahwa setiap langkah kecil dapat menciptakan perubahan besar. Dengan tekad dan semangat, kami terus bergerak membantu sesama, membawa senyuman di tengah tantangan yang ada. Mari bersama ciptakan dunia yang lebih baik untuk semua.</p>
                         <a class="btn btn-primary py-2 px-3 me-3" href="{{route('about')}}">
                             Learn More
                             <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
