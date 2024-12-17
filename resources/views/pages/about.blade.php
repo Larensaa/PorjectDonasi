@@ -42,18 +42,21 @@
                             <span class="text-primary">Sepuh Zidane, Founder</span>
                         </div>
                         <p class="mb-5">Kami percaya bahwa setiap langkah kecil dapat menciptakan perubahan besar. Dengan tekad dan semangat, kami terus bergerak membantu sesama, membawa senyuman di tengah tantangan yang ada. Mari bersama ciptakan dunia yang lebih baik untuk semua/p>
-                        <a class="btn btn-primary py-2 px-3 me-3" href="">
-                            Learn More
-                            <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
-                                <i class="fa fa-arrow-right"></i>
-                            </div>
-                        </a>
-                        <a class="btn btn-outline-primary py-2 px-3" href="">
-                            Contact Us
-                            <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
-                                <i class="fa fa-arrow-right"></i>
-                            </div>
-                        </a>
+                        <div class="mt-3">
+                            <a class="btn btn-primary py-2 px-3 me-3" href="">
+                                Learn More
+                                {{-- <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
+                                    <i class="fa fa-arrow-right"></i>
+                                </div> --}}
+                            </a>
+                            <a class="btn btn-outline-primary py-2 px-3" href="">
+                                Contact Us
+                                {{-- <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
+                                    <i class="fa fa-arrow-right"></i>
+                                </div> --}}
+                            </a>
+                        </div>
+                            
                     </div>
                 </div>
             </div>
