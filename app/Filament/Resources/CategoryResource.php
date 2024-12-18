@@ -47,7 +47,7 @@ class CategoryResource extends Resource
         return $table
             ->columns([
                 TextColumn::make('name')->sortable()->searchable(),
-                TextColumn::make('description')->sortable()->searchable()->limit(50)
+                TextArea::make('description')->sortable()->searchable()->limit(50)
                 ->tooltip(fn ($record) => $record->description),
             ])
             ->filters([

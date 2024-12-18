@@ -68,8 +68,11 @@
                                         <label class="btn btn-light py-3" for="donate_price2">Rp.20.000</label>
 
                                         <input type="radio" class="btn-check" name="donate_price" value="30000" id="donate_price3">
-                                        <label class="btn btn-light py-3" for="donate_price3">Rp.30.000</label>
+                                        <label class="btn btn-light py-3" for="donate_price3">Rp.30.000</label>                                        
                                     </div>
+
+                                    
+                                
                                 </div>
                                 <div class="col-12">
                                     <button class="btn btn-primary px-5" style="height: 60px;">
