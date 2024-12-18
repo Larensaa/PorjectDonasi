@@ -35,8 +35,10 @@ class CategoryResource extends Resource
                     '2xl' => 1,
                 ])
                     ->schema([
-                        TextInput::make('name')->required(),
-                        Textarea::make('description')->required()
+                        TextInput::make('name')
+                            ->required(),
+                        Textarea::make('description')
+                            ->required(),
                     ])
                     ->columns(2),
             ]);
@@ -46,9 +48,14 @@ class CategoryResource extends Resource
     {
         return $table
             ->columns([
-                TextColumn::make('name')->sortable()->searchable(),
-                TextArea::make('description')->sortable()->searchable()->limit(50)
-                ->tooltip(fn ($record) => $record->description),
+                TextColumn::make('name')
+                    ->sortable()
+                    ->searchable(),
+                TextColumn::make('description')
+                    ->sortable()
+                    ->searchable()
+                    ->limit(50)
+                    ->tooltip(fn ($record) => $record->description),
             ])
             ->filters([
                 //
